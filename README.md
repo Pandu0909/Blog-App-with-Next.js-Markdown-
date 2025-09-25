@@ -2,7 +2,7 @@
 ---
 
 ## Project 3: **Blog App with Next.js & Markdown**
-**Why:** Shows interest in **Next.js** (their "must have curiosity").  
+
 **Tech:** Next.js, Markdown  
 
 **Features:**
